@@ -1,4 +1,4 @@
-### Chief Innovation Officer at Truesec
+![Johan Lindfors header](header.jpg)
 
 I've been developing apps and solutions in the Microsoft ecosystem since 1998 and I'm often speaking about the platform and technologies at various events. In the middle of 2011 I founded the company Coderox, helping various customers with apps, games and solutions, some leveraging XAML and C#, others using C++ and DirectX. Before Coderox, I worked at Microsoft for almost 13 years, and have also been the head of development at Infozone.
 
