@@ -6,8 +6,15 @@ Between 2017 and 2019 I've had the great privilige to participate in the Microso
 
 Currently I am the Chief Innovation Officer at Truesec, trying to help customers predict, detect and recover from security incidents and also helping out with secure development technologies and methods.
 
-Talk to me about: Universal Windows Platform, C++, C#, XAML, Mixed Reality, Game Development and Secure Development.
+### Talk to me about
+- :video_game: [Game Development](https://github.com/search?q=user%3Ajohanlindfors+game-development)
+- :video_game: [XNA](https://github.com/search?q=user%3Ajohanlindfors+xna)
+- :computer: [Rust](https://github.com/search?q=user%3Ajohanlindfors+rust)
 <!--
+
+Talk to me about: Universal Windows Platform, C++, C#, XAML, Mixed Reality, Game Development and Secure Development.
+
+
 **johanlindfors/johanlindfors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
