@@ -10,6 +10,7 @@ Currently I am the Chief Innovation Officer at Truesec, trying to help customers
 - :video_game: [Game Development](https://github.com/search?q=user%3Ajohanlindfors+game-development)
 - :video_game: [XNA](https://github.com/search?q=user%3Ajohanlindfors+xna)
 - :computer: [Rust](https://github.com/search?q=user%3Ajohanlindfors+rust)
+- :closed_lock_with_key: [Secure Development](https://github.com/search?q=user%3Ajohanlindfors+secure-development+fork%3Atrue&type=repositories)
 <!--
 
 Talk to me about: Universal Windows Platform, C++, C#, XAML, Mixed Reality, Game Development and Secure Development.
