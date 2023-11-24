@@ -8,10 +8,10 @@ Between 2017 and 2019 I've had the great privilige to participate in the Microso
 Currently I am the domain lead of the Secure Development domain at Truesec, trying to help customers predict, prevent, detect and recover from security incidents and also helping out with secure development technologies and methods.
 
 ### Talk to me about
-- :video_game: [Game Development](https://github.com/search?q=user%3Ajohanlindfors+game-development)
-- :video_game: [XNA](https://github.com/search?q=user%3Ajohanlindfors+xna)
-- :computer: [Rust](https://github.com/search?q=user%3Ajohanlindfors+rust)
-- :closed_lock_with_key: [Secure Development](https://github.com/search?q=user%3Ajohanlindfors+secure-development+fork%3Atrue&type=repositories)
+- :video_game: [Game Development](https://github.com/search?q=user%3Ajohanlindfors+game-development&type=repositories)
+- :video_game: [XNA](https://github.com/search?q=user%3Ajohanlindfors+xna&type=repositories)
+- :computer: [Rust](https://github.com/search?q=user%3Ajohanlindfors+rust&type=repositories)
+- :closed_lock_with_key: [Secure Development](https://github.com/search?q=user%3Ajohanlindfors+secure-development&type=repositories)
 <!--
 
 Talk to me about: Universal Windows Platform, C++, C#, XAML, Mixed Reality, Game Development and Secure Development.
